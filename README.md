@@ -1,1 +1,1 @@
-Visit www.tictactoe.qinisoxulu.com for a live view.
+Visit tictactoe.qinisoxulu.com for a live view.
